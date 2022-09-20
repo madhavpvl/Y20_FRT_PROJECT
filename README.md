@@ -25,7 +25,12 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 6.Custom domains to provide branded customizations to your app.
 
-Project Link:
+Project Link: https://red-meadow-0ceacde10.1.azurestaticapps.net
 
 # Sample images of the project :
 
+![1](https://user-images.githubusercontent.com/87408431/191172243-cd5be419-49bd-4961-987e-41cf1f1e9065.jpg)
+![2](https://user-images.githubusercontent.com/87408431/191172247-10d2ee02-0152-4550-b42f-795171b3a43d.jpg)
+![3](https://user-images.githubusercontent.com/87408431/191172248-b9ba4ef9-0569-45e8-8122-5d1e955cea2f.jpg)
+![4](https://user-images.githubusercontent.com/87408431/191172251-eeddedd8-20ab-4a88-87cf-d60ad7b99adc.jpg)
+![5](https://user-images.githubusercontent.com/87408431/191172254-ae7bd4de-60ef-4fd8-9be3-0cd579dc876f.jpg)
